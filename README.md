@@ -1,7 +1,7 @@
 My emacs settings
 =================
-Its forked from magnars git clone git://github.com/magnars/.emacs.d.git and i have modified custom.el to make some change those are comfortable for me. I have added some more plugings to this to make my life more easier like. 
-The plugins i added after fork isL
+Its forked from magnars git clone git://github.com/magnars/.emacs.d.git and i have modified custom.el to make some change those are comfortable for me. I have added some more plugings to this to make my life more easier like.
+The plugins i added after fork are:
  auto-complete.el
  zencoding-mode.el
  multi-select.el
