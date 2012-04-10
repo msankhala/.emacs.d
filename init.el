@@ -45,7 +45,7 @@
 (require 'setup-ido)
 (require 'setup-yasnippet)
 (require 'setup-dired)
-(require 'setup-magit)
+;;(require 'setup-magit)
 (require 'setup-rgrep)
 (require 'setup-hippie)
 (require 'setup-ace-jump-mode)
