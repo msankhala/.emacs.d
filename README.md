@@ -15,16 +15,9 @@ These are used in the [Emacs Rocks](http://emacsrocks.com) screencasts.
 
 Setup
 -----
-To grab all the dependencies, either:
+//To grab all the dependencies, either:
 
     git clone git://github.com/msankhala/.emacs.d.git
-    cd .emacs.d
-    git submodule init
-    git submodule update
-
-or on git v1.6.5 or later:
-
-    git clone --recursive git://github.com/msankhala/.emacs.d.git
 
 
 Magit
