@@ -41,3 +41,6 @@ I use Cocoa Emacs, installed like this:
 
     brew install emacs --cocoa
 
+=======
+.emacs.d
+========

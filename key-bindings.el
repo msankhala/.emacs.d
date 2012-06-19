@@ -52,7 +52,7 @@
 (global-set-key (kbd "M-W") '(lambda () (interactive) (save-region-or-current-line 1)))
 
 ;; Make shell more convenient, and suspend-frame less
-(global-set-key (kbd "C-z") 'shell)
+(global-set-key (kbd "C-z") 'eshell)
 (global-set-key (kbd "C-x C-z") 'suspend-frame)
 
 ;; Zap to char exclusive

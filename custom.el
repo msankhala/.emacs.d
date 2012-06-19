@@ -3,9 +3,9 @@
   ;; If you edit it by hand, you could mess it up, so be careful.
   ;; Your init file should contain only one such instance.
   ;; If there is more than one, they won't work right.
- '(default ((t (:inherit nil :stipple nil :background "Black" :foreground "White" :inverse-video nil :box nil :strike-t*hrough nil :overline nil :underline nil :slant normal :weight normal :width normal :height 105))))
+ '(default ((t (:inherit nil :stipple nil :background "black" :foreground "White" :inverse-video nil :box nil :strike-t*hrough nil :overline nil :underline nil :slant normal :weight normal :width normal :height 105))))
  '(fill-column 80)
- '(highlight ((((class color) (min-colors 88) (background dark)) (:background "#111111"))))
+ '(highlight ((((class color) (min-colors 88) (background dark)) (:background "#22222"))))
  '(js2-function-param-face ((t (:foreground "LightGoldenrod"))))
  '(mumamo-background-chunk-submode ((((class color) (min-colors 88) (background dark)) nil)))
  '(show-paren-match ((nil (:background "#333399"))))
@@ -16,13 +16,15 @@
   ;; If you edit it by hand, you could mess it up, so be careful.
   ;; Your init file should contain only one such instance.
   ;; If there is more than one, they won't work right.
- '(blink-cursor-mode nil)
  '(column-number-mode t)
  '(fill-column 80)
  '(ido-use-filename-at-point nil)
  '(safe-local-variable-values (quote ((encoding . utf-8))))
  '(show-paren-mode t)
  '(tool-bar-mode nil))
+
+; Set cursor color to white
+(set-cursor-color "#ffffff")
 
 ;;auto-complete.el providing auto complete popup for most of the snippets.
 ;;it doesn't depend upon yasnippet. yasnippet have less snippets.
