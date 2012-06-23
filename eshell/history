@@ -1,0 +1,62 @@
+locate vfstpd.conf
+ls
+vsftpd 
+/etc/vsftpd/vsftpd.conf
+sudo /etc/vsftpd/vsftpd.conf
+service vsftpd restart
+sudo service vsftpd restart
+vsftpd
+ll -sh /etc/httpd/conf/httpd.conf 
+ls -l  /etc/httpd/conf/httpd.conf 
+ls -l  /etc/vsftpd/vsftpd.conf
+chmod 644 /etc/vsftpd/vsftpd.conf
+sudo chmod 644 /etc/vsftpd/vsftpd.conf
+vsftpd 
+chown 
+chown --help
+LS
+pwd
+cd Desktop/
+ls
+mkdir demanbase_test
+cd demanbase_test/
+pwd
+cd html
+ipython 
+ls
+pwd
+pwd
+cd /var/www/h
+cd /var/www/html
+cd drupal714/
+ls
+drush dl | grep enable
+drush
+drush dml | grep enable
+drush pml | grep enable
+drush pml
+drush pml | grep enabled
+drush pml | grep Enabled
+drush pml | grep Enabled | nl
+drush pml | grep blog
+drush en single blog
+drush en 'single blog'
+drush en 'Single blog'
+drush en 'Single_blog'
+drush en 'single_blog'
+29	 Core                         User (user)                              Module  Enabled        7.14    
+cp /media/94gb/Downloads15/emacs/html-php.el /home/mutant/.emacs.d/site-lisp/
+locate multi-mode
+cp /media/94gb/Downloads15/emacs/multi-mode.el /home/mutant/.emacs.d/site-lisp/
+ls
+pwd
+cd html
+ls
+ls /home/mutant/.wine/drive_c/Program\ Files/Adobe/PhotoshopPortable5/
+ls /home/mutant/.wine/drive_c/Program\ Files/Adobe/PhotoshopPortable5/
+pwd
+ls
+pwd
+ls
+cd html
+ls
